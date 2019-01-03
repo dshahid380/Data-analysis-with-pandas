@@ -1,7 +1,7 @@
 # Data-analysis-with-pandas
 This is a pandas tutorial for data analysis.Here i have covered almost all the topics of pandas except time series analysis(this is something for future).
 ### Dependencies-
-   ` pip install pandas
+   ` pip install pandas <br>
      pip install numpy 
    `
 ### Table of contents -
@@ -15,4 +15,5 @@ This is a pandas tutorial for data analysis.Here i have covered almost all the t
   * Merging Dataframes
   * Pivot and Pivot table
   * Reshaping Dataframes
+ <br>
 **Note:** All the suggestions are welcome.
