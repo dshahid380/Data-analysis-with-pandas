@@ -1,0 +1,11 @@
+dates,day,temp,wind-speed
+2/1/2012,sunny,45,12
+3/1/2012,rainy,46,34
+4/1/2012,hot,47,45
+5/1/2012,NaN,NaN,56
+6/1/2012,hot,49,Not available
+7/1/2012,NaN,NaN,Not available
+8/1/2012,hot,12,45
+9/1/2012,rainy,23,41
+10/1/2012,NaN,NaN,NaN
+11/1/2012,NaN,NaN,NaN
