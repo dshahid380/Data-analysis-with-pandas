@@ -50,7 +50,11 @@
    * pd.read_csv() is the function to read the CSV(Comma separated values) file from your computer.
    * In the function you have to pass "path" of the CSV file under quote.
    * Store the dataframe in any variable,here i stored it in variable "d".
-   * read_csv() function makes the CSV file into dataframe so that you can access it just like a disctionary.
+   * read_csv() function makes the CSV file into dataframe so that you can access it just like a disctionary. <br>
  **d=pd.read_excel("path") :**
    * It is same as the read_csv() but it reads excel sheet or file. Here i am using the weather dataset which has all the data of weather. In my case,weather.csv file is in my current directory that is why the path of the file is file name itself.
+   ```
+   d=pd.read_csv('datasets/weather.csv')
+   print(d)
+   ```
    
