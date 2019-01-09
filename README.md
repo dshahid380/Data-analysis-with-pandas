@@ -60,7 +60,7 @@
    ```
  <br>
  
-  **For futher tutorial go to the above link given in the Table of contents**
+  **For futher tutorial go to the above link given in the Table of contents or click this [link](https://github.com/dshahid380/Data-analysis-with-pandas)**
  
  ## References :
  * [Pandas Official documentation](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
