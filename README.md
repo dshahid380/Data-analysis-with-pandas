@@ -1,6 +1,6 @@
 # Data-analysis-with-pandas
    Welcome to the tutorial Data analysis with pandas. In this tutorial i have covered all the topics of pandas and tried to explain each and every concepts with lesser words in jupyter notebook so that you can abserve the function of every methods in pandas from the ground level.
-   First of all let's understand "what is data analysis and why should we use pandas for analysis ?".
+   <br>First of all let's understand "what is data analysis and why should we use pandas for analysis ?".
 
 ### Dependencies-
    ` pip install pandas ` <br>
