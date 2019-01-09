@@ -59,7 +59,7 @@
    print(d)
    ```
  
- ## Reference
+ ## References :
  * [Pandas Official documentation](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
  * [Tutorials points](https://www.tutorialspoint.com/python_pandas)
  * [Datacamp](https://www.datacamp.com/courses/pandas-foundations) 
