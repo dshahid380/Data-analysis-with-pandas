@@ -25,14 +25,15 @@
    
 ### Table of contents -
   * [Introduction to pandas](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part1.ipynb)
-  * Dataframe Object
-  * Reading, Writing CSV and EXCEL file
-  * Handling Missing Data part-1
-  * Handling Missing Data part-2
-  * Groupby : Split, Combine and Apply
-  * Concat Dataframes
-  * Merging Dataframes
-  * Pivot and Pivot table
-  * Reshaping Dataframes<br>
+  * [Dataframe Object](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part2.ipynb)
+  * [Reading, Writing CSV and EXCEL file](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part3.ipynb)
+  * [Handling Missing Data part-1](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part4.ipynb)
+  * [Handling Missing Data part-2](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part5.ipynb)
+  * [Groupby : Split, Combine and Apply](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part6.ipynb)
+  * [Concat Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part7.ipynb)
+  * [Merging Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part8.ipynb)
+  * [Pivot and Pivot table](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part9.ipynb)
+  * [Reshaping Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part10.ipynb)
+ <br>
   
 **Note:** All the suggestions are welcome.
