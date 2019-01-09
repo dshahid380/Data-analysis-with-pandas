@@ -1,4 +1,4 @@
-## Data-analysis-with-pandas
+## Data analysis with pandas
 ![pandas for data analysis](pandas1.png)
                                             <br>**Fig. 1** 
 
