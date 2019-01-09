@@ -38,3 +38,8 @@
   
 ## Introduction to pandas :
    ![](https://i1.wp.com/www.ugandaletsgotravel.com/holidays/wp-content/uploads/2018/04/holidays-panda-breeding-china-600x400.jpg)
+   <br> **Fig.2** <br><br>
+   Pandas is used as data cleaning tool in the field of data science.You can do whatever operation you want in the dataset with this tool.Now question arises, can we clean or change the value in the dataset manually ? Answer is yes we can if size of the dataset is small.What if we have a large dataset then we can not do it manually it will take a lot of time.Pandas makes data science very easy and effective.
+   <br>
+   
+   
