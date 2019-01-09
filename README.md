@@ -4,6 +4,8 @@
 ## What is data analysis ?
    Suppose you are working in a company which daily generates a lot of data of customers and you are assigned a task to extract some useful information out of it with certain deadline. What will you do if you have very limited time you can not exract information just by looking into the dataset because size of the data is huge. So you asked for help from your collegue he said just read about pandas for data analysis. You study about pandas and you found that pandas makes your life easier than just looking at dataset and finding useful informations.
 ## What does pandas actually do ?
+   This official documentation says- <br>
+   pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
 
 ### Dependencies-
    ```
