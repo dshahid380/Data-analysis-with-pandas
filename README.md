@@ -50,7 +50,7 @@
   <br>  
   
   
-#####  Reading CSV and Excel sheets:
+####  Reading CSV and Excel sheets:
 **d=pd.read_csv("path"):**
    * pd.read_csv() is the function to read the CSV(Comma separated values) file from your computer.
    * In the function you have to pass "path" of the CSV file under quote.
