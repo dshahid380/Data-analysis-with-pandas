@@ -61,6 +61,8 @@
  <br>
  
   **For futher tutorial go to the above link given in the Table of contents or click this [link](https://github.com/dshahid380/Data-analysis-with-pandas)**
+ 
+ <br>
  <br>
   ## References :
  * [Pandas Official documentation](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
@@ -68,4 +70,4 @@
  * [Datacamp](https://www.datacamp.com/courses/pandas-foundations) 
  
 <script defer src="https://use.fontawesome.com/releases/v5.6.3/js/all.js" integrity="sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1" crossorigin="anonymous"></script>   
-<i class="fab fa-github-square"></i>
+<i class="fab fa-github"></i>
