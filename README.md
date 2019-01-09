@@ -36,4 +36,5 @@
   * [Reshaping Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part10.ipynb)
  <br>
   
-**Note:** All the suggestions are welcome.
+## Introduction to pandas :
+   ![]https://i1.wp.com/www.ugandaletsgotravel.com/holidays/wp-content/uploads/2018/04/holidays-panda-breeding-china-600x400.jpg
