@@ -9,10 +9,10 @@
    <br>
    <br>
    pandas is well suited for many different kinds of data:
-     * Tabular data with heterogeneously-typed columns, as in an SQL table or Excel spreadsheet.
-     * Ordered and unordered (not necessarily fixed-frequency) time series data.
-     * Arbitrary matrix data (homogeneously typed or heterogeneous) with row and column labels.
-     * Any other form of observational / statistical data sets. The data actually need not be labeled at all to be placed into a pandas data structure.
+       * Tabular data with heterogeneously-typed columns, as in an SQL table or Excel spreadsheet.
+       * Ordered and unordered (not necessarily fixed-frequency) time series data.
+       * Arbitrary matrix data (homogeneously typed or heterogeneous) with row and column labels.
+       * Any other form of observational / statistical data sets. The data actually need not be labeled at all to be placed into a pandas data structure.
 
 ### Dependencies-
    ```
