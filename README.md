@@ -61,8 +61,8 @@
  <br>
  
   **For futher tutorial go to the above link given in the Table of contents or click this [link](https://github.com/dshahid380/Data-analysis-with-pandas)**
- 
- ## References :
+ <br>
+  ## References :
  * [Pandas Official documentation](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
  * [Tutorials points](https://www.tutorialspoint.com/python_pandas)
  * [Datacamp](https://www.datacamp.com/courses/pandas-foundations) 
