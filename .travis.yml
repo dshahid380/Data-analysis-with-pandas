@@ -11,17 +11,6 @@ install:
   - pip install matplotlib
   - pip install ipywidgets
   
-script:
-  - pandas_part1.ipynb
-  - pandas_part2.ipynb
-  - pandas_part3.ipynb
-  - pandas_part4.ipynb
-  - pandas_part5.ipynb
-  - pandas_part6.ipynb
-  - pandas_part7.ipynb
-  - pandas_part8.ipynb
-  - pandas_part9.ipynb
-  - pandas_part10.ipynb
 
 notifications:
   email: false
