@@ -10,7 +10,8 @@ install:
   - pip install ipython
   - pip install matplotlib
   - pip install ipywidgets
-  
+script:
+  - script.py
 
 notifications:
   email: false
